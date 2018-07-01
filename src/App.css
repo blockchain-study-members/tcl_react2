@@ -1,0 +1,22 @@
+.HeaderArea {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.SideArea {
+  background-color: green;
+  height:700px;
+  width:20%;
+  float:left;
+  color: red;
+}
+
+
+.BodyArea {
+  background-color: blue;
+  height: 700px;
+  width: 78%;
+  float:right;
+}
